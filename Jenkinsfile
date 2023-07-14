@@ -11,8 +11,7 @@ label {
 				sh 'mkdir abc'
 }
 }
-		stages {
-		stage ('stage-2') {
+			stage ('stage-2') {
 			steps  {
 				sh 'mkdir zxc'
 }
