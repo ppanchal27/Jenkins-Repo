@@ -8,7 +8,7 @@ label {
 	stages {
 		stage ('stage-1') {
 			steps  {
-				sh 'mkdir abc'
+				sh 'mkdir zxcv'
 }
 }
 			stage ('stage-2') {
